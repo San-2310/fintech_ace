@@ -1,0 +1,9 @@
+[
+  {
+    "id": "1",
+    "userId": "123",
+    "loanAmount": 50000,
+    "interestRate": 3.5,
+    "status": "approved"
+  }
+]

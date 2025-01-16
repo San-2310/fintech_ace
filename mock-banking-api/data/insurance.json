@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "userId": "123",
+    "planName": "Health Insurance",
+    "premium": 500,
+    "coverageAmount": 20000,
+    "status": "active"
+  }
+]
+
