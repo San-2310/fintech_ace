@@ -8,7 +8,7 @@ class QuizzesPage extends StatefulWidget {
 }
 
 class _QuizzesPageState extends State<QuizzesPage> {
-  int _currentIndex = 0;
+  //int _currentIndex = 0;
 
   final List<Map<String, Object>> quizOneQuestions = [
     {
